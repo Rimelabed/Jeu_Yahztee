@@ -1,4 +1,4 @@
-# Projet Yahtzee - Jeu de Dès en Réseau
+# Projet Yahtzee - Jeu de Dés en Réseau
 
 
 Ce projet propose une implémentation complète du jeu de dés Yahtzee, également connu sous le nom de Yam’s. Il est développé en plusieurs versions, chacune correspondant à une branche distincte sur le dépôt GitHub. Chaque version apporte de nouvelles fonctionnalités et améliorations, permettant d'explorer différentes approches en programmation réseau et en gestion du multithreading.
